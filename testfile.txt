@@ -1,1 +1,1 @@
-city: default
+city: bangalore
